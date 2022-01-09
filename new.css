@@ -9,10 +9,10 @@
     position: absolute;
     margin-top: -10%;
     margin-left: 25%;
-    background-color: burlywood;
+    background-color: transparent ;
     border-radius: 40px;}
   .search:hover{background-repeat: cover;
-    background-color: transparent;}
+    background-color: burlywood ;}
     .fa-search{position: absolute;
         font-size: 40px;
         margin-top: -9.5%;
