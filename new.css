@@ -1,0 +1,93 @@
+#main{height: 250px;
+      ;}
+.image>img{height: 250px;
+          width: 100%;
+          opacity: 0.6;}
+.search{border: 1px solid transparent;
+    height: 58px;
+    width: 52%;
+    position: absolute;
+    margin-top: -10%;
+    margin-left: 25%;
+    background-color: aquamarine;
+    border-radius: 40px;}
+  .search:hover{background-repeat: cover;
+    background-color: transparent;}
+    .fa-search{position: absolute;
+        font-size: 40px;
+        margin-top: -9.5%;
+        margin-left: 78%;
+        color: violet;}
+    .dropdown1>select{height: 40px;
+               box-sizing: border-box;
+               border-radius: 40px;
+               margin-left: 80px;
+               margin-top: 8px;}
+#main2{height: 80px;
+       ;}
+    .box{
+        width:12%;
+        float: left;
+        height: 80px;
+        margin-left: 4px;
+        text-align: center;}
+    .fa-utensils{color: aquamarine;
+                font-size: 60px;}
+    .fa-hotel{color: aquamarine;
+                font-size: 70px;}
+    .fa-car-side{color: aquamarine;
+                font-size: 70px;}
+    .fa-shopping-basket{color: aquamarine;
+                font-size: 70px;}
+    .fa-walking{color:aquamarine;
+                font-size: 70px;}
+    .fa-cloud-moon{color: aquamarine;
+                font-size: 70px;}
+    .fa-glass-cheers{color: aquamarine;
+                font-size: 70px;}
+    .fa-play{color:aquamarine;
+                font-size: 70px;}
+#main3{
+      height: 280px;}
+    .text{
+        height: 100px;
+        width: 380px;
+        margin-top: 30px;
+        margin-left: 40%;}
+      .text2{
+             height: 50px;
+             font-size: 30px;
+             text-align: center;}
+      .text3{
+             height: 50px;
+             text-align: center;
+             font-size: 25px;}
+    .box2{
+          height: 230px;
+          width: 65%;
+          margin-left: 20%;}
+    
+        .image3{height: 230px;
+                width: 400px;
+                float: left;
+                text-align: center;
+                color: violet;}
+            .image3>a{text-decoration: none;
+                          color: red}    
+        .image4{height: 230px;
+                width: 220px;
+                float: left;
+                text-align: center;
+                color: violet}
+            .image4>a{text-decoration: none;
+                      color: red}    
+        .image5{height: 230px;
+                width: 220px;
+                float: left;
+                text-align: center;
+                color: violet}
+           .image5>a{text-decoration: none;
+                     color: red}
+            .i:hover{opacity: 0.6;
+                     transform: scaleX(-1)} 
+                          
